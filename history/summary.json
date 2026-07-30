@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/this-is-fake-url-for-test.com.ico",
     "slug": "test-fake-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "70.14%",
+    "uptimeDay": "70.14%",
+    "uptimeWeek": "70.14%",
+    "uptimeMonth": "70.14%",
+    "uptimeYear": "70.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-30": 0
+    }
   }
 ]
