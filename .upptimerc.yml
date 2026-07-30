@@ -6,8 +6,6 @@ sites:
     url: https://api.stelcount.fans
   - name: Squirrel Webhook Server
     url: https://webhook.stelcount.fans
-  - name: Test Fake Server
-    url: https://this-is-fake-url-for-test.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
