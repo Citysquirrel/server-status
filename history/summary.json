@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 1017,
-    "timeWeek": 1017,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "time": 965,
+    "timeDay": 965,
+    "timeWeek": 965,
+    "timeMonth": 965,
+    "timeYear": 965,
     "dailyMinutesDown": {}
   },
   {
@@ -34,25 +34,5 @@
     "timeMonth": 777,
     "timeYear": 777,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Fake Server",
-    "url": "https://this-is-fake-url-for-test.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/this-is-fake-url-for-test.com.ico",
-    "slug": "test-fake-server",
-    "status": "down",
-    "uptime": "70.14%",
-    "uptimeDay": "70.14%",
-    "uptimeWeek": "70.14%",
-    "uptimeMonth": "70.14%",
-    "uptimeYear": "70.14%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-07-30": 0
-    }
   }
 ]
