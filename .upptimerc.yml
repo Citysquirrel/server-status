@@ -3,22 +3,22 @@ repo: server-status
 
 sites:
   - name: Stelcount API Server
-    url: https://api.stelcount.fans/
+    url: https://api.stelcount.fans
   - name: Squirrel Webhook Server
-    url: https://webhook.stelcount.fans/
+    url: https://webhook.stelcount.fans
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://status.stelcount.fans/
-  baseUrl: /server-status
+  cname: https://status.stelcount.fans
+  # baseUrl: /server-status
   logoUrl: https://stelcount.fans/favicon.ico
   name: Stelcount Status
   introTitle: "**Stelcount API** 서버의 실시간 상태를 보여줍니다."
   introMessage: 매 5분마다 자동으로 체크됩니다.
   navbar:
-    - title: Status
-      href: /
+    #- title: Status
+    #  href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: StelCount
