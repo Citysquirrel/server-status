@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 866,
     "timeDay": 518,
-    "timeWeek": 541,
+    "timeWeek": 555,
     "timeMonth": 879,
     "timeYear": 866,
     "dailyMinutesDown": {}
@@ -22,17 +22,19 @@
     "url": "https://webhook.stelcount.fans",
     "icon": "https://icons.duckduckgo.com/ip3/webhook.stelcount.fans.ico",
     "slug": "squirrel-webhook-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 683,
-    "timeWeek": 626,
-    "timeMonth": 651,
-    "timeYear": 665,
-    "dailyMinutesDown": {}
+    "time": 662,
+    "timeDay": 612,
+    "timeWeek": 639,
+    "timeMonth": 648,
+    "timeYear": 662,
+    "dailyMinutesDown": {
+      "2026-09-03": 0
+    }
   }
 ]
